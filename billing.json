@@ -1,0 +1,275 @@
+{"info":{
+    "Account": "816728724920", 
+    "UserId": "AIDA34KGTKW4NWDSER3Y2", 
+    "Arn": "arn:aws:iam::816728724920:user/phuongnm"
+}
+, "billing":
+{
+    "ResultsByTime": [
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-01-01", 
+                "End": "2020-02-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000006038", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000006685", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "89607.8587887839", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-02-01", 
+                "End": "2020-03-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "-0.0000016903", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "-0.000001755", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "89395.2376154999", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-03-01", 
+                "End": "2020-04-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000003617", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000029861", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "1991176.5308963438", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-04-01", 
+                "End": "2020-05-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000041291", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000017918", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "279603.0945301114", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-05-01", 
+                "End": "2020-06-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.000005347", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000024876", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "519456.3064449166", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-06-01", 
+                "End": "2020-07-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "-0.0000002859", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "-0.0000002726", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "1162.2879926093", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-07-01", 
+                "End": "2020-08-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "-0.0000018622", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "-0.0000018827", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "1450.9725150471", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-08-01", 
+                "End": "2020-09-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000043611", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.00000436", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "4982.9535135657", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-09-01", 
+                "End": "2020-10-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000062094", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000061889", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "8844.9845922066", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-10-01", 
+                "End": "2020-11-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000054445", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000053892", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "67329.4492280078", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-11-01", 
+                "End": "2020-12-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000053467", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000052776", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "330239.7248895417", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }, 
+        {
+            "Estimated": false, 
+            "TimePeriod": {
+                "Start": "2020-12-01", 
+                "End": "2021-01-01"
+            }, 
+            "Total": {
+                "BlendedCost": {
+                    "Amount": "0.0000036189", 
+                    "Unit": "USD"
+                }, 
+                "UnblendedCost": {
+                    "Amount": "0.0000035636", 
+                    "Unit": "USD"
+                }, 
+                "UsageQuantity": {
+                    "Amount": "296978.5465430177", 
+                    "Unit": "N/A"
+                }
+            }, 
+            "Groups": []
+        }
+    ]
+}
+}
